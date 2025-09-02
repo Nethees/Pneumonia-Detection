@@ -1,0 +1,11 @@
+bentoml 
+torchvision
+joblib
+tqdm
+pip-chill
+wincertstore
+boto3
+mypy-boto3-s3
+streamlit
+
+-e .
